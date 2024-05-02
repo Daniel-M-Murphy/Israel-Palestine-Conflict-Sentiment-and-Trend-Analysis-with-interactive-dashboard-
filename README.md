@@ -1,0 +1,2 @@
+# Israel-Palestine-Conflict-Sentiment-and-Trend-Analysis-with-interactive-dashboard-
+This project contains sentiment and time series analysis of comments from specific subreddits related to the Israel-Palestine conflict. I applied Python and various libraries in order to analyse sentiments and develop and interactive dashboard that visualises the insights discovered. Please see the READ ME file below for more information.
